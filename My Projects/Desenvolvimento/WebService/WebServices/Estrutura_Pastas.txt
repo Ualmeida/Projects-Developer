@@ -1,0 +1,3 @@
+CLIENT --> WsCA**** -> Rotinas geradas automaticamente via URL Externo
+SERVER --> WsSA**** -> Rotinas Server's internos BGH
+Rotinas--> Ws_A**** -> Rotinas de consumo de WS externo
